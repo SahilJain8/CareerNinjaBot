@@ -6,3 +6,10 @@ Chat with users and provide information.
 Analyze the tone of sentences (friendly or non-friendly).
 Collect user information in a polite and innovative way.
 Validate user input for details such as name, birthday, address, email, and phone number.
+
+
+
+## API key
+
+I have used googles palm model
+the api can be genrated from here "https://makersuite.google.com/app/apikey"
